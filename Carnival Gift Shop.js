@@ -83,7 +83,7 @@ function main() {
             default:
                 console.log(`Please select one of the possible options!`)
                 break;
-              }
+        }
     } 
 }
 
