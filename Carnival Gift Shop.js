@@ -10,8 +10,7 @@ const gifts = [
     {id: 7, name: 'Skateboard', cost: 100},
     {id: 8, name: 'Toy Car', cost: 25},
     {id: 9, name: 'Basketball', cost: 20},
-    {id: 10, name: 'Scary Mask', cost: 75},
-  
+    {id: 10, name: 'Scary Mask', cost: 75},  
 ];
 
 let availableTickets = 0;
