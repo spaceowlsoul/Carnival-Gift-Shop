@@ -10,7 +10,7 @@ The list is extensive! From Teddy Bear to Tigers 🐅 and even Dragons 🐉!
 
 1. Download the 'Carnival Gift Shop.js' file.
 
-2. To make use of the 'sync-input' library follow [the instuctions](https://github.com/hyperskill/sync-input#installation).
+2. To make use of the 'sync-input' library, follow [the instructions](https://github.com/hyperskill/sync-input#installation).
 
 3. Run the file and observe the main menu along with the list of available toys. 
 
